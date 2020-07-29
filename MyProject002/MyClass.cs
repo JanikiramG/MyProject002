@@ -7,6 +7,7 @@ namespace MyProject002
 	class MyClass
 	{
 		int a = 10;
-		//121111
+		//121111s
+		//Added 01
 	}
 }
